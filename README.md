@@ -1,6 +1,6 @@
 # golang
 
-[![Build Status](https://travis-ci.org/steenzout/docker-go.svg?branch=master)](https://travis-ci.org/steenzout/docker-go)
+[![Build Status](https://img.shields.io/docker/build/steenzout/go.svg)](https://hub.docker.com/r/steenzout/docker-go/builds/)
 [![License](https://img.shields.io/badge/license-New%20BSD-blue.svg?style=flat)](https://raw.githubusercontent.com/steenzout/docker-go/master/LICENSE)
 
 [![Project Stats](https://www.openhub.net/p/steenzout-docker-go/widgets/project_thin_badge.gif)](https://www.openhub.net/p/steenzout-docker-go/)
