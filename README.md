@@ -7,7 +7,7 @@
 
 [![Project Stats](https://www.openhub.net/p/steenzout-docker-go/widgets/project_thin_badge.gif)](https://www.openhub.net/p/steenzout-docker-go/)
 
-[Steenzout][steenzout]'s docker image for [Go][go].
+[Pedro Salgado][steenzout]'s docker image for [Go][go].
 
 This image is built on top of the [Golang official image][docker_go].
 
