@@ -1,4 +1,4 @@
-# golang
+# go
 
 [![License](https://img.shields.io/badge/license-New%20BSD-blue.svg?style=flat)](https://raw.githubusercontent.com/steenzout/docker-go/master/LICENSE)
 [![Build Status](https://img.shields.io/docker/build/steenzout/go.svg)](https://hub.docker.com/r/steenzout/go/builds/)
