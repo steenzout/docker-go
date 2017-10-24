@@ -1,9 +1,11 @@
 # golang
 
-[![Build Status](https://img.shields.io/docker/build/steenzout/go.svg)](https://hub.docker.com/r/steenzout/docker-go/builds/)
+[![Build Status](https://img.shields.io/docker/build/steenzout/go.svg)](https://hub.docker.com/r/steenzout/go/builds/)
 [![License](https://img.shields.io/badge/license-New%20BSD-blue.svg?style=flat)](https://raw.githubusercontent.com/steenzout/docker-go/master/LICENSE)
 
 [![Project Stats](https://www.openhub.net/p/steenzout-docker-go/widgets/project_thin_badge.gif)](https://www.openhub.net/p/steenzout-docker-go/)
+[![Docker Stars](https://img.shields.io/docker/stars/steenzout/go.svg)](https://hub.docker.com/r/steenzout/go)
+[![Docker Pulls](https://img.shields.io/docker/pulls/steenzout/go.svg)](https://hub.docker.com/r/steenzout/go)
 
 [Steenzout][steenzout]'s docker image for [Go][go].
 
