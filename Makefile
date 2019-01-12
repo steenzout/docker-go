@@ -1,7 +1,7 @@
 default: image
 
 DOCKER_REGISTRY ?= 
-IMAGE_TAG ?= 1.9-alpine3.6
+IMAGE_TAG ?= 1.11.4-alpine3.8
 
 image_name := steenzout/go
 
